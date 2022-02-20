@@ -1,0 +1,9 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: webapp
+spec:
+  template:
+    spec:
+      containers:
+        - image: ko://github.com/JeffNeff/webapp/backend/cmd/webapp
