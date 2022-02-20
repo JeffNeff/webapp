@@ -2,13 +2,13 @@
 I wanted to share with the community how I create applications with a React frontend and Golang backend. This readme contains the steps to reproduce this repository.
 
 ## Development Prerequisites
-Go
-React
-create-react-app
-react-scripts
+* Go
+* React
+* create-react-app
+* react-scripts
 
 ## Building/Deploying Prerequisites
-ko
+* ko
 
 ## Initalize the project
 Steps:
