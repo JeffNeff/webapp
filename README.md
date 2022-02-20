@@ -1,5 +1,5 @@
 # How I Create Applications With a React Frontend and Golang Backend
-I wanted to share with the community how I create applications with a React frontend and Golang backend.
+I wanted to share with the community how I create applications with a React frontend and Golang backend. This readme contains the steps to reproduce this repository.
 
 ## Development Prerequisites
 Go
